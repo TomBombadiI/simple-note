@@ -1,0 +1,8 @@
+app-note-item {
+    display: flex;
+    padding: 10px;
+    width: 90%;
+    background-color: rgb(254, 254, 126);
+    border-radius: 15px;
+    margin: 10px 0;
+}
